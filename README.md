@@ -1,7 +1,8 @@
 # Matrix_Factorization
 Matrix_Factorization
 
-![image](https://github.com/furkansukan/Matrix_Factorization/assets/115731123/888ba472-d867-49d0-a4bf-c9effacc9fba)
+![image](https://github.com/furkansukan/Matrix_Factorization/assets/115731123/e1cf9807-348f-4871-a156-7b20000a306c)
+
 
 
 #############################
